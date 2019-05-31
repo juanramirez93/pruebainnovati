@@ -1,5 +1,5 @@
-const accountSid = 'AC8bce418696a375a51d218344ab2df604';
-const authToken = '1a9c19541b354ff5c1fdcdaa4b709369';
+const accountSid = 'xxxxxxxx';
+const authToken = 'xxxxxx';
 const client = require('twilio')(accountSid, authToken);
 const VoiceResponse = require('twilio').twiml.VoiceResponse;
 
