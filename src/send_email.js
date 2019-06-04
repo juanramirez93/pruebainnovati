@@ -6,7 +6,7 @@ exports.sendEmail = function (person, req, res) {
         service: 'Gmail',
         auth: {
             user: "ramper.pruebas@gmail.com",
-            pass: 'craPeRlA'
+            pass: 'xxxxxx'
         }
     });
 
